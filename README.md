@@ -10,10 +10,11 @@
 - Python, HTML/CSS and Data Analysis.
 
 ## Current Projects
-- To be uploaded soon.
+- Introduction to Git and Github
+- Web Foundations
 
 ## How to Reach Me
 - Email: muriithipurity28@gmail.com
-- LinkedIn:
-  
+- LinkedIn: www.linkedin.com/in/purity-muriithi-295955212
+
 Add my profile README
