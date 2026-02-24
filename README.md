@@ -17,4 +17,3 @@
 - Email: muriithipurity28@gmail.com
 - LinkedIn: www.linkedin.com/in/purity-muriithi-295955212
 
-Add my profile README
